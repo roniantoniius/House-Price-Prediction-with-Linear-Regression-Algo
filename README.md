@@ -4,10 +4,10 @@
 Sumber: Projectpro.com
 
 ## Projek Prediksi Harga Rumah di US 🤨 🧐
-1. Business Understanding 😇
+### 1. Business Understanding 😇
 Disini aku mau mencoba untuk memprediksi Harga rumah di Kabupaten King di Provinsi Washington😆 di Negara US. Seperti yang diketahui bahwa harga rumah-rumah akhir dekade ini mengalami peningkatan yang signifikan di seluruh Dunia. Namun masih banyak orang, khususnya generasi anak muda, saat ini masih sedikit yang melek akan peningkatan harga Rumah 😱😱. Salah satu step atau solusi untuk membuka mata generasi anak muda yaitu dengan melihat bagaimana perkembangan dan prediksi harga rumah kedepannya. Maka dari itu salah satu solusi yang bisa saya buat yaitu model prediksi (kalau bisa sampai tahap deploy dengan azure/aws). Pada kernel ini sebagian besar saya akan menggunakan beberapa teknik dari regresi linear. Ayoo 🫡
 
-2. Data Understanding 😁
+### 2. Data Understanding 😁
 King County adalah rumah bagi kota terbesar dan kelima terbesar di kota Bagian Washington, yaitu Seattle dan Bellevue, yang bersama dengan kota terbesar ketiga, Tacoma, membentuk wilayah metropolitan Seattle. Dataset yang digunakan didapat dari kaggle atau kc_house_data dimana fitur-fiturnya berisikan
 - id: primary keynya
 - date: waktu timeseries dari data dimasukkan
